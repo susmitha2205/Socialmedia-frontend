@@ -1,0 +1,1 @@
+This repository contains the HTML, CSS, and JavaScript files for a profile page template designed for the ConnectU social networking platform. Additionally, it includes functionality for toggling between light and dark themes.
